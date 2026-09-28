@@ -1,0 +1,21 @@
+{
+    "name": "monkeyscloud/monkeyslegion-feature-flags",
+    "description": "Feature flags package for MonKeysLegion framework",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "MonkeysLegion\\FeatureFlags\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MonkeysLegion\\FeatureFlags\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
