@@ -10,7 +10,7 @@ use Psr\Http\Server\MiddlewareInterface;
 use Psr\Http\Server\RequestHandlerInterface;
 
 /**
- * MonKeysLegion Framework — Feature Flags Package
+ * MonkeysLegion Framework — Feature Flags Package
  *
  * Middleware that checks feature flags for route access.
  *

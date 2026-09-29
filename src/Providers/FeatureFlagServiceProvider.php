@@ -7,11 +7,11 @@ use MonkeysLegion\FeatureFlags\Drivers\DatabaseDriver;
 use MonkeysLegion\FeatureFlags\Drivers\FeatureDriverInterface;
 use MonkeysLegion\FeatureFlags\Drivers\InMemoryDriver;
 use MonkeysLegion\FeatureFlags\Drivers\RedisDriver;
-use MonKeysLegion\FeatureFlags\Feature;
+use MonkeysLegion\FeatureFlags\Feature;
 use MonkeysLegion\FeatureFlags\FeatureManager;
 
 /**
- * MonKeysLegion Framework — Feature Flags Package
+ * MonkeysLegion Framework — Feature Flags Package
  *
  * Service provider that registers the feature flag driver and manager.
  *

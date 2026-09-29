@@ -1,13 +1,13 @@
 <?php
 declare(strict_types=1);
 
-namespace MonKeysLegion\FeatureFlags\Drivers;
+namespace MonkeysLegion\FeatureFlags\Drivers;
 
 use Redis;
 use RedisException;
 
 /**
- * MonKeysLegion Framework — Feature Flags Package
+ * MonkeysLegion Framework — Feature Flags Package
  *
  * Redis driver storing flags with namespaced keys.
  *

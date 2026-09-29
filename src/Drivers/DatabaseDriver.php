@@ -7,7 +7,7 @@ use PDO;
 use PDOException;
 
 /**
- * MonKeysLegion Framework — Feature Flags Package
+ * MonkeysLegion Framework — Feature Flags Package
  *
  * Database driver storing flags in a `feature_flags` table.
  *

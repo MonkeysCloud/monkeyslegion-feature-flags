@@ -6,7 +6,7 @@ namespace MonkeysLegion\FeatureFlags\Attribute;
 use Attribute;
 
 /**
- * MonKeysLegion Framework — Feature Flags Package
+ * MonkeysLegion Framework — Feature Flags Package
  *
  * Route-level feature flag attribute.
  *

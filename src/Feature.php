@@ -4,7 +4,7 @@ declare(strict_types=1);
 namespace MonkeysLegion\FeatureFlags;
 
 /**
- * MonKeysLegion Framework — Feature Flags Package
+ * MonkeysLegion Framework — Feature Flags Package
  *
  * Static facade for the FeatureManager.
  *

@@ -6,7 +6,7 @@ namespace MonkeysLegion\FeatureFlags;
 use MonkeysLegion\FeatureFlags\Drivers\FeatureDriverInterface;
 
 /**
- * MonKeysLegion Framework — Feature Flags Package
+ * MonkeysLegion Framework — Feature Flags Package
  *
  * Central manager for defining, resolving, and evaluating feature flags.
  *

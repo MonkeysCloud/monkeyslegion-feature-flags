@@ -4,7 +4,7 @@ declare(strict_types=1);
 namespace MonkeysLegion\FeatureFlags\Drivers;
 
 /**
- * MonKeysLegion Framework — Feature Flags Package
+ * MonkeysLegion Framework — Feature Flags Package
  *
  * In-memory driver for testing and development.
  *
